@@ -1,0 +1,19 @@
+{
+	"name": "zz.gl",
+	"version": "2017073.0.0",
+	"description": "Imazzine Developer Lib WebGL implementation.",
+	"author": {
+		"name": "Artem Lytvynov",
+		"email": "buntarb@gmail.com"
+	},
+	"license": "Apache-2.0",
+    "homepage": "http://imazzine.com/idl/zz.gl/",
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/buntarb/zz.gl.git"
+	},
+	"dependencies": {
+
+	    "imazzine-developer-kit": ""
+	}
+}
